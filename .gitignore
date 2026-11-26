@@ -1,0 +1,5 @@
+Concrete_Data.xls
+.backup/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
